@@ -28,44 +28,29 @@ Analysis with AdaBoost Classifier:** Focus on instances that are difficult to cl
 ## Visualizations
 
 ### Correlation Heatmap of Columns
-![image](https://github.com/user-attachments/assets/d106a4e0-d1a9-41a9-a9f5-507795b71b77)
+![image](https://github.com/user-attachments/assets/e16bb1dd-d269-4d9f-a0c5-105070e9c40c)
 ### Gender Analysis
-![image](https://github.com/user-attachments/assets/02df87ce-da1c-4f3f-a399-3645898529f8)
+![image](https://github.com/user-attachments/assets/50d849f2-a23f-4196-8000-ef41a1c07d84)
 ### Residence Type Analysis
-![image](https://github.com/user-attachments/assets/97df0028-51d4-4c33-bf3f-30406613450b)
+![image](https://github.com/user-attachments/assets/475ac011-a7b8-48d9-804c-99ebdb5fb582)
 ### Married Status Analysis
-![image](https://github.com/user-attachments/assets/750d2e89-78f5-4f63-b521-fb41e55c2e84)
+![image](https://github.com/user-attachments/assets/7125ce4c-b3bd-4de1-8d4a-200f9e8e2ecc)
 ### Work Type Analysis
-![image](https://github.com/user-attachments/assets/b0cec264-946c-491d-93c2-76d6e09d37bd)
+![image](https://github.com/user-attachments/assets/2a0356e7-9cbe-49b9-a30a-f5b642a1a8c0)
 ### Smoking Status Analysis
-![image](https://github.com/user-attachments/assets/dea15d45-e79b-4ed3-aa9c-e11389b8d21b)
+![image](https://github.com/user-attachments/assets/8a326d2b-d2dd-4857-8e7f-e19c4ac57f2f)
 ### Graphs for Heart Disease and Hypertension
-![image](https://github.com/user-attachments/assets/080d6c3c-4535-441d-a1b4-8119205a0096)
-![image](https://github.com/user-attachments/assets/9b73dd9e-accc-438b-b95d-261ff081c3dc)
+![image](https://github.com/user-attachments/assets/ef96d168-8bd1-4b48-aca9-7eb0dad4fdbe)
+![image](https://github.com/user-attachments/assets/6f07f094-4c39-4627-a4de-72e810b3f14a)
 ### Bivariate Analysis
-![image](https://github.com/user-attachments/assets/2dd3b80d-c050-492c-8031-c3ec11b4fd0e)
-![image](https://github.com/user-attachments/assets/98a7b9d9-c6d6-4d9c-af8d-c57aea08c2b3)
-![image](https://github.com/user-attachments/assets/27880919-afa5-45d0-9cb5-9b96dc4635a7)
-### Countplots
-![image](https://github.com/user-attachments/assets/7fe275b8-2e31-48fc-a790-347d3e8ad947)
-![image](https://github.com/user-attachments/assets/e94dbdb7-e520-4dc8-b651-e2024869fe9f)
-![image](https://github.com/user-attachments/assets/075b7530-7bf1-443c-a2a5-b6dc31140965)
-![image](https://github.com/user-attachments/assets/31c36df6-043d-4957-a885-b2c982794bdd)
-![image](https://github.com/user-attachments/assets/3cd3f591-ca15-4df1-866c-685450b7abcd)
-### Exploring Need for Oversampling
-![image](https://github.com/user-attachments/assets/7ca3d5a5-2b88-40ae-953c-1d9eb00b3687)
-![image](https://github.com/user-attachments/assets/cd84e673-3f20-491e-a727-db613589f506)
-### Model Training
-![image](https://github.com/user-attachments/assets/a83d56ee-045b-42eb-b013-f2842adce5fb)
-![image](https://github.com/user-attachments/assets/7a9c1b15-b70e-4189-ba11-20d535f8f9ff)
-### Confusion Matrices of Testing Model
-![image](https://github.com/user-attachments/assets/648d61b1-1059-4b25-a280-32dc9b7c2611)
-![image](https://github.com/user-attachments/assets/da6bade7-6556-4487-93d6-796d96f85957)
+![image](https://github.com/user-attachments/assets/79dcc7bc-30ac-46f9-a717-36fd7d3f4067)
+![image](https://github.com/user-attachments/assets/2968551f-e475-45b3-b6c2-613aa4b8eca9)
+![image](https://github.com/user-attachments/assets/8165fe17-bacc-4e7e-8959-abff5281ddef)
 ### Receiver Operating Characteristic
-![image](https://github.com/user-attachments/assets/1e1a00cc-069a-47bd-b324-fdd293919006)
-![image](https://github.com/user-attachments/assets/8a7726b4-a123-4788-a58c-d9c6bca1a538)
+![image](https://github.com/user-attachments/assets/8e4cbba4-8de1-4de2-bede-8a74a51b5683)
+![image](https://github.com/user-attachments/assets/0aaa583f-8390-4f11-bc2a-632a8c61c3da)
 ### Comparison of ROC Curves
-![image](https://github.com/user-attachments/assets/b8c806ed-18ed-4c19-8fa0-608e10819066)
+![image](https://github.com/user-attachments/assets/50f501c7-4c34-4928-aa1b-f6f95ed59551)
 
 
 ## Conclusion
